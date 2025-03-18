@@ -199,7 +199,7 @@ Here is a simple **HTML & CSS** snippet from the project:
 ## 🚀 How to Run the Project  
 1. **Clone the repository:**  
    ```bash
-   git clone https://github.com/your-username/repository-name.git
+   git clone https://github.com/PANSHUL-gupta12/SCM_Project.git
    ```  
 2. **Navigate to the project directory:**  
    ```bash
