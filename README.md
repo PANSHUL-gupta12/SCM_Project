@@ -1,4 +1,5 @@
-# 🌟 Feedback Form**
+
+# 🌟 FeedBack Form 
 
 ## 📌 Description
 The Feedback Form is a simple and user-friendly tool designed to collect valuable insights from users. It allows individuals to share their thoughts, suggestions, and concerns about the project, helping to enhance its functionality and user experience.
@@ -182,4 +183,50 @@ Here is a simple **HTML & CSS** snippet from the project:
 
 </body>
 
-</html>
+</html>```
+
+📌 **Output Preview:** This is a simple feedback form
+
+---
+
+## 🔹 Features  
+✅ Simple UI with HTML & CSS.  
+✅ Mobile-responsive design.  
+✅ Customizable styles.  
+
+---
+
+## 🚀 How to Run the Project  
+1. **Clone the repository:**  
+   ```bash
+   git clone https://github.com/your-username/repository-name.git
+   ```  
+2. **Navigate to the project directory:**  
+   ```bash
+   cd repository-name
+   ```  
+3. **Open `index.html` in a browser to see the output.**  
+
+---
+
+## 🤝 Contribution Guidelines  
+1. **Fork the repository.**  
+2. **Create a new branch:**  
+   ```bash
+   git checkout -b feature-branch
+   ```  
+3. **Make changes and commit:**  
+   ```bash
+   git commit -m "Added new feature"
+   ```  
+4. **Push changes and create a Pull Request.**  
+
+---
+
+## 📜 License  
+This project is licensed under the **MIT License**.
+
+## 👥 Team & Contributors  
+- Panshul Gupta   
+```
+
